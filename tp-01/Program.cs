@@ -13,16 +13,11 @@ namespace tp_01
             raiz.HijoDerecho.HijoIzquierdo = new ArbolBinario<int>(5);
             raiz.HijoDerecho.HijoDerecho = new ArbolBinario<int>(6);
             raiz.HijoDerecho.HijoIzquierdo.HijoIzquierdo = new ArbolBinario<int>(7);
+           
             
-             Console.Write("Recorrido PREORDEN: ");
-            raiz.preorden();
-            
-            Console.Write("\nRecorrido INORDEN: ");
-            raiz.inorden();
-            
-            Console.Write("\nRecorrido POSTORDEN: ");
-            raiz.postorden();
-            
+           ProfundidadDeArbolBinario profundidad=new ProfundidadDeArbolBinario(raiz);
+           int suma=profundidad.SumarElementosProfundidad(2);
+           Console.WriteLine("La suma es: " + suma);
             
 			Console.ReadKey(true);
 		}

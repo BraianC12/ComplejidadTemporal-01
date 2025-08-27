@@ -44,7 +44,7 @@ namespace tp_01
 		}
 	
 		public bool esHoja() {
-			return this.hijoIzquierdo==null && this.hijoDerecho==null;
+			return this.HijoIzquierdo==null && this.HijoDerecho==null;
 		}
 
 		
