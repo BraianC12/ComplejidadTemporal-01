@@ -7,7 +7,7 @@ namespace tp_01
 		private T dato;
 		private ArbolBinario<T> hijoIzquierdo;
 		private ArbolBinario<T> hijoDerecho;
-	
+		
 		
 		public ArbolBinario(T dato) {
 			this.dato = dato;
@@ -88,7 +88,7 @@ namespace tp_01
 		}
 		
 		public void recorridoPorNiveles() {
-			
+		
 		}
 	
 		public int contarHojas() {

@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\ComplejidadTemporal-01\tp-02\obj\Debug\tp-02.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ComplejidadTemporal-01\tp-02\bin\Debug\tp-02.exe
+C:\Users\Usuario\Desktop\ComplejidadTemporal-01\tp-02\bin\Debug\tp-02.pdb
+C:\Users\Usuario\Desktop\ComplejidadTemporal-01\tp-02\obj\Debug\tp-02.exe
+C:\Users\Usuario\Desktop\ComplejidadTemporal-01\tp-02\obj\Debug\tp-02.pdb

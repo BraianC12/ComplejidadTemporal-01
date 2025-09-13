@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\ComplejidadTemporal-01\Ejercicios\EJ_02_heap\bin\Debug\EJ_02_heap.exe
+C:\Users\Usuario\Desktop\ComplejidadTemporal-01\Ejercicios\EJ_02_heap\bin\Debug\EJ_02_heap.pdb
+C:\Users\Usuario\Desktop\ComplejidadTemporal-01\Ejercicios\EJ_02_heap\obj\Debug\EJ_02_heap.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ComplejidadTemporal-01\Ejercicios\EJ_02_heap\obj\Debug\EJ_02_heap.exe
+C:\Users\Usuario\Desktop\ComplejidadTemporal-01\Ejercicios\EJ_02_heap\obj\Debug\EJ_02_heap.pdb

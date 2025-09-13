@@ -4,6 +4,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # SharpDevelop 4.4
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp-01", "tp-01\tp-01.csproj", "{2CDB0ABB-9448-4D2C-A681-F26167EB29E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp-02", "tp-02\tp-02.csproj", "{1B80DCEA-2B8C-4EE7-BDE6-717CD06270E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,5 +16,9 @@ Global
 		{2CDB0ABB-9448-4D2C-A681-F26167EB29E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2CDB0ABB-9448-4D2C-A681-F26167EB29E3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2CDB0ABB-9448-4D2C-A681-F26167EB29E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B80DCEA-2B8C-4EE7-BDE6-717CD06270E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B80DCEA-2B8C-4EE7-BDE6-717CD06270E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B80DCEA-2B8C-4EE7-BDE6-717CD06270E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B80DCEA-2B8C-4EE7-BDE6-717CD06270E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 EndGlobal
