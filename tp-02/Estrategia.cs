@@ -1,74 +1,70 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
-
 namespace tp_02
 {
-	/// <summary>
-	/// Description of Estrategia.
-	/// </summary>
 	public class Estrategia
 	{
-		private double mejorTiempo;
-		private List<Compuesto> mejorCamino;
 		
-		private double CalcularTiempo(Compuesto c){
-			if(c.tipo == "Soft"){
-				return c.vueltas * 0.3;
-			}
+		public List<NodoArbol> MejorEstrategia(NodoArbol raiz)
+		{
+			var mejorRuta = new List<NodoArbol>();
+			double mejorTiempo = double.MaxValue;
 			
-			if(c.tipo == "Med"){
-				return c.vueltas * 0.4;
-			}
+			// Buscar todas las rutas posibles
+			BuscarRutas(raiz, new List<NodoArbol>(), 0, mejorRuta, ref mejorTiempo);
 			
-			if(c.tipo == "Hard"){
-				return c.vueltas * 0.7;
-			}
-			
-			return 0;
+			return mejorRuta;
 		}
-		
-		private void Buscar(ArbolGeneral<Compuesto> nodo, List<Compuesto> camino, double tiempo, bool esRaiz){
-			
-			if(!esRaiz && nodo.getDatoRaiz() !=null){
-				tiempo += CalcularTiempo(nodo.getDatoRaiz());
-				camino.Add(nodo.getDatoRaiz());
+
+		private void BuscarRutas(NodoArbol nodo, List<NodoArbol> rutaActual, double tiempoActual, List<NodoArbol> mejorRuta, ref double mejorTiempo)
+		{
+			// Si el nodo tiene tipo válido (no es raíz), agregarlo a la ruta
+			if (!string.IsNullOrEmpty(nodo.Tipo))
+			{
+				rutaActual.Add(nodo);
+				
+				double tiempoNeumatico = CalcularTiempo(nodo);
+				tiempoActual += tiempoNeumatico;
+				
+				
+				if (rutaActual.Count > 1)
+				{
+					tiempoActual += 10;
+				}
 			}
+
 			
-			
-			if(nodo.esHoja()){
-				if(tiempo<mejorTiempo){
-					mejorTiempo = tiempo;
-					mejorCamino= new List<Compuesto>(camino);
+			if (nodo.Hijos == null || nodo.Hijos.Count == 0){
+				if (rutaActual.Count > 0 && tiempoActual < mejorTiempo){  // Actualizar mejor estrategia encontrada
+					mejorTiempo = tiempoActual;
+					mejorRuta.Clear();
+					mejorRuta.AddRange(rutaActual);
 				}
 			}
 			else{
-				foreach (var hijo in nodo.getHijos()){
-					double tiempoHijo= tiempo;
-					if(nodo.getDatoRaiz() != null) {
-						tiempoHijo +=10;
-					}
-					Buscar(hijo, camino, tiempoHijo, false);
+				foreach (var hijo in nodo.Hijos){  
+					BuscarRutas(hijo, new List<NodoArbol>(rutaActual), tiempoActual, mejorRuta, ref mejorTiempo);
 				}
 			}
-			
+		} 
+		
+		public double CalcularTiempo(NodoArbol nodo)
+		{ 
+			switch (nodo.Tipo.ToUpper())
+			{
+				case "SOFT":
+					return nodo.CantDeVueltas * 0.0;
+				case "MED":
+					return nodo.CantDeVueltas * 0.4;
+				case "HARD":
+					return nodo.CantDeVueltas * 0.7; 
+				default:
+					return nodo.CantDeVueltas * 0.0; 
 			}
 		
-		
-		public List<Compuesto> mejorEstrategia(ArbolGeneral<Compuesto> arbol){
-			mejorTiempo= double.MaxValue;
-			mejorCamino=null;
-			
-			
-			Buscar(arbol, new List<Compuesto>(), 0, true);
-			
-			
-			return mejorCamino;
-			
 		}
 		
-		public double GetMejorTiempo()
-		{
-			return mejorTiempo;
-		}
+		
 	}
 }

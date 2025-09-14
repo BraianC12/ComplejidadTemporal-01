@@ -45,9 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArbolGeneral.cs" />
-    <Compile Include="Compuesto.cs" />
     <Compile Include="Estrategia.cs" />
+    <Compile Include="NodoArbol.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
