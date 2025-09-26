@@ -1,3 +1,5 @@
+// Carranza Braian y Herrera Franco
+
 namespace tpfinal
 {
     internal static class Program
