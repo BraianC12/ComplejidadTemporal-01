@@ -1,0 +1,15 @@
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\bin\Debug\net10.0\TP7.exe
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\bin\Debug\net10.0\TP7.deps.json
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\bin\Debug\net10.0\TP7.runtimeconfig.json
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\bin\Debug\net10.0\TP7.dll
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\bin\Debug\net10.0\TP7.pdb
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\obj\Debug\net10.0\TP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\obj\Debug\net10.0\TP7.AssemblyInfoInputs.cache
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\obj\Debug\net10.0\TP7.AssemblyInfo.cs
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\obj\Debug\net10.0\TP7.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\obj\Debug\net10.0\TP7.sourcelink.json
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\obj\Debug\net10.0\TP7.dll
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\obj\Debug\net10.0\refint\TP7.dll
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\obj\Debug\net10.0\TP7.pdb
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\obj\Debug\net10.0\TP7.genruntimeconfig.cache
+C:\Users\Brian\Desktop\ComplejidadTemporal-01\TP7\TP7\obj\Debug\net10.0\ref\TP7.dll

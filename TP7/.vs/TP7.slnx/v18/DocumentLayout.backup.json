@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{702A259E-901E-279B-239A-64E560457F54}|TP7\\TP7.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tp7\\tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702A259E-901E-279B-239A-64E560457F54}|TP7\\TP7.csproj|solutionrelative:tp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702A259E-901E-279B-239A-64E560457F54}|TP7\\TP7.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tp7\\tp7\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702A259E-901E-279B-239A-64E560457F54}|TP7\\TP7.csproj|solutionrelative:tp7\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702A259E-901E-279B-239A-64E560457F54}|TP7\\TP7.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tp7\\tp7\\rutasgrafos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702A259E-901E-279B-239A-64E560457F54}|TP7\\TP7.csproj|solutionrelative:tp7\\rutasgrafos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702A259E-901E-279B-239A-64E560457F54}|TP7\\TP7.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tp7\\tp7\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702A259E-901E-279B-239A-64E560457F54}|TP7\\TP7.csproj|solutionrelative:tp7\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702A259E-901E-279B-239A-64E560457F54}|TP7\\TP7.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tp7\\tp7\\arista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{702A259E-901E-279B-239A-64E560457F54}|TP7\\TP7.csproj|solutionrelative:tp7\\arista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 678,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grafo.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\TP7\\Grafo.cs",
+              "RelativeDocumentMoniker": "TP7\\Grafo.cs",
+              "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\TP7\\Grafo.cs",
+              "RelativeToolTip": "TP7\\Grafo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:35:34.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RutasGrafos.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\TP7\\RutasGrafos.cs",
+              "RelativeDocumentMoniker": "TP7\\RutasGrafos.cs",
+              "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\TP7\\RutasGrafos.cs",
+              "RelativeToolTip": "TP7\\RutasGrafos.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:54:47.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vertice.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\TP7\\Vertice.cs",
+              "RelativeDocumentMoniker": "TP7\\Vertice.cs",
+              "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\TP7\\Vertice.cs",
+              "RelativeToolTip": "TP7\\Vertice.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:35:35.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Arista.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\TP7\\Arista.cs",
+              "RelativeDocumentMoniker": "TP7\\Arista.cs",
+              "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\TP7\\Arista.cs",
+              "RelativeToolTip": "TP7\\Arista.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:35:33.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\TP7\\Program.cs",
+              "RelativeDocumentMoniker": "TP7\\Program.cs",
+              "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\TP7\\TP7\\Program.cs*",
+              "RelativeToolTip": "TP7\\Program.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T23:34:43.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
