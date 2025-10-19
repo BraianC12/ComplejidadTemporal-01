@@ -27,8 +27,20 @@ namespace tpfinal
 
 		public String Consulta1(ArbolGeneral<DatoDistancia> arbol)
 		{
-			string resutl = "Implementar";
-			return resutl;
+			string resultado;
+			if (arbol.esHoja())
+			{
+				return arbol.getDatoRaiz().ToString() + "\n";
+			}
+			else
+			{
+				resultado = "";
+				foreach(ArbolGeneral<DatoDistancia> hijo in arbol.getHijos())
+				{
+					resultado = resultado + Consulta1(hijo);
+				}
+				return resultado;
+			}
 		}
 
 

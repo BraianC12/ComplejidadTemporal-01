@@ -29,11 +29,11 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedHeight": 1105,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Estrategia.cs",
               "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Estrategia.cs",
               "RelativeToolTip": "Estrategia.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAADcAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T19:29:11.61Z",
               "IsPinned": true,
@@ -60,8 +60,7 @@
               "RelativeToolTip": "Cola.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:09.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:29:09.955Z"
             },
             {
               "$type": "Document",
@@ -73,8 +72,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:13.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:29:13.231Z"
             },
             {
               "$type": "Document",
@@ -86,8 +84,7 @@
               "RelativeToolTip": "DatoDistancia.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAkwBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:10.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:29:10.819Z"
             },
             {
               "$type": "Document",
@@ -99,8 +96,7 @@
               "RelativeToolTip": "Backend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:08.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:29:08.294Z"
             },
             {
               "$type": "Document",
@@ -112,8 +108,27 @@
               "RelativeToolTip": "ArbolGeneral.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:01.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:29:01.743Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 237,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
