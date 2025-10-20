@@ -46,19 +46,67 @@ namespace tpfinal
 
 		public String Consulta2(ArbolGeneral<DatoDistancia> arbol)
 		{
-			string result = "Implementar";
-
-            return result;
+			List<string> todosLosCaminos = new List<string>();
+			RecorrerCaminos(arbol, arbol.getDatoRaiz().ToString(), todosLosCaminos);
+			return string.Join("\n", todosLosCaminos);
         }
 
-		
+		private void RecorrerCaminos(ArbolGeneral<DatoDistancia> nodoActual, string caminoActual, List<string> todosLosCaminos)
+		{
+			if (nodoActual.esHoja())
+			{
+				todosLosCaminos.Add(caminoActual);
+				return;
+			}
+			
+			foreach (ArbolGeneral<DatoDistancia> hijo in nodoActual.getHijos())
+			{
+				string nuevoCamino = caminoActual + " -> " + hijo.getDatoRaiz().ToString();
+				RecorrerCaminos(hijo, nuevoCamino, todosLosCaminos);
+			}
+		}
 
 		public String Consulta3(ArbolGeneral<DatoDistancia> arbol)
 		{
-			string result = "Implementar";
-		
-			return result;
-		}
+			if (arbol == null)
+			{
+				return "El arbol esta vacio.";
+			}
+
+			string resultado = "";
+
+			Cola<ArbolGeneral<DatoDistancia>> cola = new Cola<ArbolGeneral<DatoDistancia>>();
+
+			cola.encolar(arbol);
+			cola.encolar(null);
+
+			int nivelActual = 0;
+			resultado += "Nivel " + nivelActual + ": ";
+
+			while (!cola.esVacia())
+			{
+				ArbolGeneral<DatoDistancia> nodoActual = cola.desencolar();
+
+				if (nodoActual == null)
+				{
+					if (!cola.esVacia())
+					{
+						nivelActual++;
+                        resultado += "\nNivel " + nivelActual + ": ";
+						cola.encolar(null);
+                    }
+				}
+				else
+				{
+					resultado += nodoActual.getDatoRaiz().ToString() + "   ";
+                    foreach (ArbolGeneral<DatoDistancia> hijo in nodoActual.getHijos())
+                    {
+                        cola.encolar(hijo);
+                    }
+                }
+			}
+			return resultado;
+        }
 
 		public void AgregarDato(ArbolGeneral<DatoDistancia> arbol, DatoDistancia dato)
 		{
