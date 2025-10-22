@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tpfinal\\tpfinal\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tpfinal\\tpfinal\\arbolgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:arbolgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tpfinal\\tpfinal\\backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:backend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tpfinal\\tpfinal\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tpfinal\\tpfinal\\datodistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,35 +44,11 @@
               "RelativeDocumentMoniker": "Estrategia.cs",
               "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Estrategia.cs",
               "RelativeToolTip": "Estrategia.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwB0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAmwKUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T19:29:11.61Z",
               "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cola.cs",
-              "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Cola.cs",
-              "RelativeDocumentMoniker": "Cola.cs",
-              "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Cola.cs",
-              "RelativeToolTip": "Cola.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:09.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:13.231Z"
             },
             {
               "$type": "Document",
@@ -82,33 +58,58 @@
               "RelativeDocumentMoniker": "DatoDistancia.cs",
               "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\DatoDistancia.cs",
               "RelativeToolTip": "DatoDistancia.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T19:29:10.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Backend.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Backend.cs",
               "RelativeDocumentMoniker": "Backend.cs",
               "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Backend.cs",
               "RelativeToolTip": "Backend.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T19:29:08.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ArbolGeneral.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\ArbolGeneral.cs",
               "RelativeDocumentMoniker": "ArbolGeneral.cs",
               "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\ArbolGeneral.cs",
               "RelativeToolTip": "ArbolGeneral.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T19:29:01.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Cola.cs",
+              "RelativeDocumentMoniker": "Cola.cs",
+              "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Cola.cs",
+              "RelativeToolTip": "Cola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:29:09.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:29:13.231Z"
             }
           ]
         },
