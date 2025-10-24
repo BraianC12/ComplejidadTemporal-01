@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tpfinal\\tpfinal\\estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tpfinal\\tpfinal\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:datodistancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tpfinal\\tpfinal\\estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:estrategia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|c:\\users\\brian\\desktop\\complejidadtemporal-01\\tpfinal\\tpfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF522874-2171-46F4-ABB3-51DC73FE94AA}|tpfinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 1105,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Estrategia.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Estrategia.cs",
               "RelativeDocumentMoniker": "Estrategia.cs",
               "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Estrategia.cs",
               "RelativeToolTip": "Estrategia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAmwJcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T19:29:11.61Z",
               "IsPinned": true,
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DatoDistancia.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\DatoDistancia.cs",
               "RelativeDocumentMoniker": "DatoDistancia.cs",
@@ -60,12 +60,11 @@
               "RelativeToolTip": "DatoDistancia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:10.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:29:10.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Backend.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Backend.cs",
               "RelativeDocumentMoniker": "Backend.cs",
@@ -73,12 +72,11 @@
               "RelativeToolTip": "Backend.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:08.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:29:08.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ArbolGeneral.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\ArbolGeneral.cs",
               "RelativeDocumentMoniker": "ArbolGeneral.cs",
@@ -86,21 +84,19 @@
               "RelativeToolTip": "ArbolGeneral.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAmwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:01.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:29:01.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Cola.cs",
               "DocumentMoniker": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Cola.cs",
               "RelativeDocumentMoniker": "Cola.cs",
               "ToolTip": "C:\\Users\\Brian\\Desktop\\ComplejidadTemporal-01\\tpfinal\\tpfinal\\Cola.cs",
               "RelativeToolTip": "Cola.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:09.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:29:09.955Z"
             },
             {
               "$type": "Document",
@@ -112,8 +108,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T19:29:13.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T19:29:13.231Z"
             }
           ]
         },
